@@ -19,7 +19,7 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Fontdiner Swanky', cursive;
+    font-family: 'Satisfy', cursive;
     font-size: 65px;
     margin: 50px;
 }
@@ -75,15 +75,15 @@ h2 {
     width: 100%;
     margin: 0;
     padding: 10px;
-    background-color: #FFC04C;
+    background-color: rgb(76, 183, 255);
     border: none;
 }
 
 .addBurgerButton:active {
-   background-color: #FFC04C;
+   background-color: rgb(76, 183, 255);
 }
 
 .burgerFooter {
-   background-color: #FFC04C;
+   background-color: rgb(76, 183, 255);
    padding: 20px 0;
 }
