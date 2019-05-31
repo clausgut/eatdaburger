@@ -35,3 +35,5 @@ router.put('/burgers/:id', function(req, res) {
     res.redirect('/');
   });
 });
+
+module.exports = router;
